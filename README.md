@@ -1,7 +1,7 @@
 # side-project-showcase
 
 ## Project Overview
-*explain in 3 lines the overall concept of the project*
+*explain in 3-5 lines the overall concept of the project*
 
 ## Codebase link
 *The repository homepage link(s)*
@@ -13,12 +13,12 @@
 
 ## Contributions
 We expect to see in the links the same user who owns this repo
-* Link to commit or merged Pull Request 1
-  * *One liner Explanation of the commit*
-* Link to commit or merged Pull Request 2
-  * *One liner Explanation of the commit*
-* Link to commit or merged Pull Request 3
-  * *One liner Explanation of the commit*
+* Link to a merged Pull Request, a specific commit or a file
+  * *Explanation: what´s happening here? Why this is relevant?*
+* Link to a merged Pull Request, a specific commit or a file
+  * *Explanation: what´s happening here? Why this is relevant?*
+* Link to a merged Pull Request, a specific commit or a file
+  * *Explanation: what´s happening here? Why this is relevant?*
 * *More is better but 3 are enough :)*
 
 ## Statistics
